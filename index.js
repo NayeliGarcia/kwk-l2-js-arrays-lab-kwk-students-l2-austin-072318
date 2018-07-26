@@ -1,3 +1,2 @@
 // Write your solution here!
- drivers = ["Milo", "Otis", "Garfield"]
-function destructivelyAppendDriver(name)
+driver drivers = ["Milo", "Otis", "Garfield"]
